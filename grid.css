@@ -1,0 +1,105 @@
+.container {
+  display: grid;
+  width: 735px;
+  height: 499px;
+  background: #ffffff;
+}
+.box-red {
+  width: 280px;
+  height: 499px;
+  background-color: #ff0707;
+}
+.box-blue {
+  position: absolute;
+  margin-left: 280px;
+  width: 222px;
+  height: 161px;
+  background: #3d0ff9;
+}
+.box-green {
+  position: absolute;
+  margin-left: 502px;
+  width: 233px;
+  height: 161px;
+  background: #35cc0f;
+}
+.box-black {
+  width: 325px;
+  height: 179px;
+  background: #1d0c0c;
+}
+.box-red2 {
+  position: absolute;
+  margin-left: 325px;
+  width: 130px;
+  height: 60px;
+  background: #f40e0e;
+}
+.container2 {
+  display: grid;
+  position: absolute;
+  margin-top: 161px;
+  margin-left: 280px;
+}
+.container3 {
+  display: grid;
+  position: absolute;
+  margin-top: 221.1px;
+  margin-left: 605px;
+}
+.box-violet {
+  width: 65px;
+  height: 69px;
+  background: #232898;
+}
+.box-light_violet {
+  position: absolute;
+  margin-left: 65px;
+  width: 65px;
+  height: 69px;
+  background: #ac09f9;
+}
+.light_brown {
+  position: absolute;
+  width: 130px;
+  height: 50px;
+  background: #a86262;
+  margin-top: 290px;
+  margin-left: 605px;
+}
+.container4 {
+  display: flex;
+  position: absolute;
+  margin-top: 340px;
+  margin-left: 280px;
+}
+.green2 {
+  width: 92px;
+  height: 159px;
+  background: #23de1f;
+}
+.blue {
+  width: 80px;
+  height: 159px;
+  background: #09d3ff;
+}
+.yellow {
+  width: 78px;
+  height: 159px;
+  background: #f6fb16;
+}
+.pink {
+  width: 75px;
+  height: 159px;
+  background: #e710ec;
+}
+.cayon {
+  width: 70px;
+  height: 159px;
+  background: #0ce4be;
+}
+.black2 {
+  width: 60px;
+  height: 159px;
+  background: #0f0101;
+}
